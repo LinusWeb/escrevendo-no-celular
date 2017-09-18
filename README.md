@@ -28,22 +28,30 @@ Sendo que para representar uma letra dentro do dominio de um numero esse numero 
 Entrada | Condição | Classes Válidas | Classes Inválidas
 :-----: | :------: | :-------------: | :---------------:
   text  | text é do tipo String  | text caracteres são letras ou espaço | text tem caracteres numericos ou especiais
-  09    |    10    |        11       |         12
-  13    |    14    |        15       |         16
-  17    |    18    |        19       |         20  
-
+  09    |    text caracteres ]'A','Z']   |        11       |         12
+  
+def is_valid(text):
+  return True;
+  
+ InstanceOf("Ola mundo")==String
+ 
+ def getTextNumbers(text):
+    is_valid(text);
+    return String;
 
 ## 1º caso de teste
-teste
+
+is_valid("Ola mundo") true
+getTextNumbers("Ola mundo") String processada
 
 ## 2º caso de teste
-teste
+is_valid("Feliz 2017") false
+getTextNumbers("Feliz 2017")  # Isso aqui lança uma exceção
 
 ## 3º caso de teste
-teste
+ is_valid(18)  # Isso aqui lança uma exceção
+ getTextNumbers(18)  # Isso aqui lança uma exceção
 
-## 4º caso de teste
-teste
-
-## 5º caso de teste
-teste
+## 3º caso de teste
+is_valid("       ") true
+getTextNumbers("       ") String processada (0000000)
