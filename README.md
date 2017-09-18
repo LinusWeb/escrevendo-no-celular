@@ -3,6 +3,7 @@
 ### Problema: http://dojopuzzles.com/problemas/exibe/escrevendo-no-celular/
 ### Tecnologia: Java
 
+
 # Plano de teste
 
 Entrada | Condição | Classes Válidas | Classes Inválidas
@@ -12,6 +13,7 @@ Entrada | Condição | Classes Válidas | Classes Inválidas
   09    |    10    |        11       |         12
   13    |    14    |        15       |         16
   17    |    18    |        19       |         20  
+
 
 ## 1º caso de teste
 teste
