@@ -27,8 +27,7 @@ Sendo que para representar uma letra dentro do dominio de um numero esse numero 
 
 Entrada | Condição | Classes Válidas | Classes Inválidas
 :-----: | :------: | :-------------: | :---------------:
-  01    |    02    |        03       |         04
-  05    |    06    |        07       |         08
+  text  | text é do tipo String  | text caracteres são letras ou espaço | text tem caracteres numericos ou especiais
   09    |    10    |        11       |         12
   13    |    14    |        15       |         16
   17    |    18    |        19       |         20  
