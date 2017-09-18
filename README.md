@@ -41,17 +41,21 @@ def is_valid(text):
 
 ## 1º caso de teste
 
-is_valid("Ola mundo") true
-getTextNumbers("Ola mundo") String processada
+is_valid("Ola mundo") == true
+
+getTextNumbers("Ola mundo") == String processada
 
 ## 2º caso de teste
-is_valid("Feliz 2017") false
+is_valid("Feliz 2017") == false
+
 getTextNumbers("Feliz 2017")  # Isso aqui lança uma exceção
 
 ## 3º caso de teste
  is_valid(18)  # Isso aqui lança uma exceção
+ 
  getTextNumbers(18)  # Isso aqui lança uma exceção
 
 ## 3º caso de teste
-is_valid("       ") true
-getTextNumbers("       ") String processada (0000000)
+is_valid("       ") == true
+
+getTextNumbers("       ") == String processada (0000000)
