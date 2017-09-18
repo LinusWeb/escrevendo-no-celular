@@ -54,7 +54,7 @@ getTextNumbers("Feliz 2017")  # Isso aqui lança uma exceção
  
  getTextNumbers(18)  # Isso aqui lança uma exceção
 
-## 3º caso de teste
+## 4º caso de teste
 is_valid("       ") == true
 
 getTextNumbers("       ") == String processada (0000000)
