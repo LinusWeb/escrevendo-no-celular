@@ -7,4 +7,4 @@
 
 Entrada | Condição | Classes Válidas | Classes Inválidas
 ------- | -------- | --------------- | -----------------
-        |          |                 |    
+  01    |   02     |        06       |        07
