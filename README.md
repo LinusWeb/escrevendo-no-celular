@@ -27,8 +27,7 @@ Sendo que para representar uma letra dentro do dominio de um numero esse numero 
 
 Entrada | Condição | Classes Válidas | Classes Inválidas
 :-----: | :------: | :-------------: | :---------------:
-  text  | text é do tipo String  | text caracteres são letras ou espaço | text tem caracteres numericos ou especiais
-  -    |    text caracteres ]'A','Z']   |        -       |         -
+  text  | text é do tipo String  text caracteres ]'A','Z']  | text caracteres são letras ou espaço | text tem caracteres numericos ou especiais 
   
 def is_valid(text):
   return True;
