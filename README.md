@@ -1,8 +1,17 @@
 # 2o Plano de teste - Escrevendo no celular
 ### Membros: Juscelino Messias / Emmanuel Bulacio
 ### Problema: http://dojopuzzles.com/problemas/exibe/escrevendo-no-celular/
-### Tecnologia: Java
-
+### Tecnologias: 
+- Linguagem de programação:
+  - Java
+- SO:
+  - Linux (Debian 8.x release Jessie) 
+  - Windows 10
+- Ambiente de produção:  
+  - Netbeans IDE 8.2  
+- Ferramenta de Testes:
+  - JUnit 4.12  
+ 
 # Descrição:
 Letras | Numero de dominio
 :-----: | :------:
