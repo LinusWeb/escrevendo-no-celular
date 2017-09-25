@@ -69,11 +69,14 @@ is_valid("Feliz 2017") == false
 getTextNumbers("Feliz 2017")  # Isso aqui lança uma exceção
 
 ## 3º caso de teste
- is_valid(18)  # Isso aqui lança uma exceção
+is_valid(18)  # Isso aqui lança uma exceção
  
- getTextNumbers(18)  # Isso aqui lança uma exceção
+getTextNumbers(18)  # Isso aqui lança uma exceção
 
 ## 4º caso de teste
 is_valid("       ") == true
 
 getTextNumbers("       ") == String processada (0000000)
+
+## 5º caso de teste (text excede 255 caracteres)
+is_invalid("text text text text text...") # Isso aqui lança uma exceção
