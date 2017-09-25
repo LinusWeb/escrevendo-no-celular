@@ -40,7 +40,8 @@ Sendo que para representar uma letra dentro do dominio de um numero esse numero 
   - Netbeans IDE 8.2  
 - Ferramenta de Testes:
   - JUnit 4.12  
-# Plano de teste
+
+# Plano de teste:
 
 Entrada | Condição | Classes Válidas | Classes Inválidas
 :-----: | :------: | :-------------: | :---------------:
