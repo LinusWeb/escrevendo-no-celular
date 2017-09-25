@@ -1,7 +1,7 @@
 # 2o Plano de teste - Escrevendo no celular
 ### Membros: 
-- Juscelino Messias
 - Emmanuel Bulacio
+- Juscelino Messias
 
 ### Problema:
 http://dojopuzzles.com/problemas/exibe/escrevendo-no-celular/
@@ -19,16 +19,16 @@ http://dojopuzzles.com/problemas/exibe/escrevendo-no-celular/
  
 # Descrição:
 Letras | Numero de dominio
-:-----: | :------:
+:----: | :----:
 ABC    |  2 
 DEF    |  3 
 GHI    |  4 
 JKL    |  5 
 MNO    |  6 
-PQRS    |  7 
+PQRS   |  7 
 TUV    |  8 
 WXYZ   |  9 
-Espaço | 0 
+Espaço |  0 
 
 Desenvolva um programa que, dada uma mensagem de texto limitada a 255 caracteres, retorne a seqüência de números que precisa ser digitada. Uma pausa, para ser possível obter duas letras referenciadas pelo mesmo número, deve ser indicada como _.
 
