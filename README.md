@@ -26,7 +26,7 @@ Espaço |  0
 
 Desenvolva um programa que, dada uma mensagem de texto limitada a 255 caracteres, retorne a seqüência de números que precisa ser digitada. Uma pausa, para ser possível obter duas letras referenciadas pelo mesmo número, deve ser indicada como _.
 
-### Exemplo
+### Exemplo:
 "SEMPRE ACESSO O DOJOPUZZLES" é equivalente á sequencia 77773367_7773302_222337777_777766606660366656667889999_9999555337777
 Sendo que para representar uma letra dentro do dominio de um numero esse numero deve ser informado segundo o numero da posição da letra desejada dentro do dominio.
 
@@ -41,7 +41,7 @@ Sendo que para representar uma letra dentro do dominio de um numero esse numero 
 - Ferramenta de Testes:
   - JUnit 4.12  
 
-# Plano de teste:
+# Plano de teste
 
 Entrada | Condição | Classes Válidas | Classes Inválidas
 :-----: | :------: | :-------------: | :---------------:
