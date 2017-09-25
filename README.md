@@ -7,6 +7,11 @@
 http://dojopuzzles.com/problemas/exibe/escrevendo-no-celular/
  
 ### Descrição:
+
+Um dos serviços mais utilizados pelos usuários de aparelhos celulares são os SMS (Short Message Service), que permite o envio de mensagens curtas (até 255 caracteres em redes GSM e 160 caracteres em redes CDMA).
+
+Para digitar uma mensagem em um aparelho que não possui um teclado QWERTY embutido é necessário fazer algumas combinações das 10 teclas numéricas do aparelho para conseguir digitar. Cada número é associado a um conjunto de letras como a seguir:
+
 Letras | Numero de dominio
 :----: | :----:
 ABC    |  2 
