@@ -32,7 +32,7 @@ Sendo que para representar uma letra dentro do dominio de um numero esse numero 
 
 ### Tecnologias: 
 - Linguagem de programação:
-  - Java
+  - Java 8 Update 141
 - SO:
   - Linux (Debian 8.x release Jessie) 
   - Windows 10
