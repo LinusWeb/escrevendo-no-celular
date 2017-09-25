@@ -46,6 +46,7 @@ Sendo que para representar uma letra dentro do dominio de um numero esse numero 
 Entrada | Condição | Classes Válidas | Classes Inválidas
 :-----: | :------: | :-------------: | :---------------:
   text  | text é do tipo String  text caracteres ]'A','Z']  | text caracteres são letras ou espaço | text tem caracteres numericos ou especiais 
+        | qtdCaracteres(text) <= 255 | qtdCaracteres(text) < 256 | qtdCaracteres(text) > 255
   
 def is_valid(text):
   return True;
