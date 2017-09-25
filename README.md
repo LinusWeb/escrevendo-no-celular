@@ -1,6 +1,11 @@
 # 2o Plano de teste - Escrevendo no celular
-### Membros: Juscelino Messias / Emmanuel Bulacio
-### Problema: http://dojopuzzles.com/problemas/exibe/escrevendo-no-celular/
+### Membros: 
+- Juscelino Messias
+- Emmanuel Bulacio
+
+### Problema:
+http://dojopuzzles.com/problemas/exibe/escrevendo-no-celular/
+
 ### Tecnologias: 
 - Linguagem de programação:
   - Java
